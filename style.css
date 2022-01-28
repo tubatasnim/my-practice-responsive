@@ -12,8 +12,8 @@ body{
     height:80px;
 }
 .banner{
-    height: calc(100vh-80px);
-    min-height:500px;
+    min-height: calc(100vh-80px);
+    /* min-height:500px; */
 }
 /* .new-design{
     height:100px;
